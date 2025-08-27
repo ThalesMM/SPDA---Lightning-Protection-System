@@ -1,1 +1,1 @@
-Software para simulação de um projeto de SPDA
+Software for simulating the conformity of a SPDA project acording to Brasilian's NBR 5419 norm
